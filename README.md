@@ -1,6 +1,6 @@
 # Predicting Student Dropout Rates: An Examination of Student Characteristics and Economic Indicators
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ConstantineWang/dgthum140/eec07000a860a213c051955f5ff89df934145d0f?urlpath=https%3A%2F%2Fgithub.com%2FConstantineWang%2Fdgthum140%2Fblob%2Fmain%2Ffinal.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ConstantineWang/dgthum140/main)
 
 This project aims to predict student dropout and academic success based on various student characteristics and academic indicators.
 
