@@ -2,6 +2,7 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ConstantineWang/dgthum140/main)
 
+[DH140 Blog](https://constantinewang.github.io/DH140_blog/)
 
 This project aims to predict student dropout and academic success based on various student characteristics and academic indicators.
 
